@@ -8,10 +8,8 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Countr" expanded="True">
-            <Node name="Countr.Droid" expanded="True">
-              <Node name="Properties" expanded="True">
-                <Node name="AndroidManifest.xml" selected="True" />
-              </Node>
+            <Node name="Countr.Droid" expanded="True" selected="True">
+              <Node name="Properties" expanded="True" />
               <Node name="Resources" expanded="True">
                 <Node name="values" expanded="True" />
               </Node>
@@ -22,7 +20,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Countr.Droid PreferredExecutionTarget="Android.4c8e3be4" />
+  <MonoDevelop.Ide.ItemProperties.Countr.Droid AndroidDesignerPreferredTheme="MyTheme" PreferredExecutionTarget="Android.4c8e3be4" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
