@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{21401325-08EA-4F93-8FCD-C8BB676643C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Countr.Droid/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="Countr.Droid/Resources/values/styles.xml" Line="26" Column="100" />
+      <File FileName="Countr.Droid/Properties/AndroidManifest.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Countr" expanded="True">
+            <Node name="Countr.Droid" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Countr.Droid PreferredExecutionTarget="Android.4c8e3be4" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
